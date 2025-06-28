@@ -1,2 +1,2 @@
 # leesoft.co.uk
-LeSoft Consulting website
+LeeSoft Consulting website
